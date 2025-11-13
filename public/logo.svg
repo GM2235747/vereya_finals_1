@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Verēya logo">
+  <rect width="240" height="240" fill="transparent" />
+  <g transform="translate(120,120)">
+    <!-- Top three dark petals -->
+    <ellipse cx="0" cy="-48" rx="28" ry="84" fill="#111" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-48" rx="28" ry="84" fill="#111" transform="rotate(72)"/>
+    <ellipse cx="0" cy="-48" rx="28" ry="84" fill="#111" transform="rotate(144)"/>
+    <!-- Bottom two white petals -->
+    <ellipse cx="0" cy="-48" rx="28" ry="84" fill="#ffffff" transform="rotate(216)"/>
+    <ellipse cx="0" cy="-48" rx="28" ry="84" fill="#ffffff" transform="rotate(288)"/>
+    <!-- Small center hub -->
+    <g transform="scale(1.2)">
+      <path d="M0 -10 L6 -2 L4 8 L-4 8 L-6 -2 Z" fill="#111" />
+    </g>
+  </g>
+</svg>
