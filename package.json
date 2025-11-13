@@ -1,6 +1,7 @@
 {
   "name": "vereya_finals_1",
   "version": "0.0.0",
+  "type": "module",
   "private": true,
   "dependencies": {
     "@radix-ui/react-aspect-ratio": "^1.1.8",
